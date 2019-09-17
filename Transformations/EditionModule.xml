@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<transformations directory="D:\!UJC\OVJ\Texty\Konverze\Conversion\Xsl" xml:base="../Xsl/" xmlns="http://vokabular.ujc.cas.cz/ns/xslt-transformation/1.0">
+  <transformation xml:id="header">
+    <step file="EM-Generate-header-TEI.xsl" />
+  </transformation>
+  <transformation xml:id="front">
+    <step file="Generate-front-TEI.xsl" />
+  </transformation>
+  <transformation xml:id="body">
+    <step file="Rename-old-word-styles.xsl" />
+    <step file="Remove-table-with-metadata.xsl" />
+    <step file="Remove-internal-notes.xsl" />
+    <step file="Remove-comment-referencies.xsl" />
+    <step file="Decompose-merged-styles-to-components.xsl" />
+    <step file="Merge-content-of-following-identical-elements.xsl" />
+    <step file="Subordinate-tags-to-previous-element.xsl" />
+    <step file="Merge-content-of-following-identical-elements.xsl" />
+    <step file="Remove-spaces-between-elements.xsl" />
+    <step file="Remove-empty-elements.xsl" />
+    <step file="EM-Transpose-styles-to-TEI-elements.xsl" />
+    <step file="Removove-duplicated-pb+sb.xsl" />
+    <step file="Convert-hash-mark-to-figure.xsl" />
+    <step file="Remove-spaces-between-elements.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-00.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-01A.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-01B.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-02A.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-02B.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-02C.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-02E.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-02F.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-02G.xsl" />
+    <step file="EM-Modify-content-of-unclear-step-02H.xsl" />
+    <step file="EM-Modify-orig-element-within-running-title.xsl" />
+    <step file="Modify-content-of-cell-element.xsl" />
+    <step file="Group-elements-to-div.xsl" />
+    <step file="EM-Group-elements-of-addressee.xsl" />
+    <step file="EM-Group-elements-of-editorial-to-div.xsl" />
+    <step file="EM-Group-explicit+incipit-to-div.xsl" />
+    <step file="Group-elements-of-preface-to-div.xsl" />
+    <step file="Group-elements-before-head.xsl" />
+    <step file="Group-elements-head1-without-head2.xsl" />
+    <step repeat="2" file="Group-elements-head-and-head1-to-div.xsl" />
+    <step file="EM-Goup-paragraphs-divided-by-empty-paragrap.xsl" />
+    <step repeat="4" file="Move-pb-outside-of-paragraph.xsl" />
+    <step file="TEI-Modify-pb-content.xsl" />
+    <step file="Group-table-to.div.xsl" />
+    <step file="Merge-l-with-line-numbers.xsl" />
+    <step file="Merge-readings.xsl" />
+    <step file="Merge-corr-and-sic.xsl" />
+    <step file="Convert-text-element-to-content.xsl" />
+    <step file="Rename-head1.xsl" />
+    <step file="EM-Group-index-items.xsl" />
+    <step file="EM-Transform-anchors.xsl" />
+    <step file="TEI-Group-paragraphs-without-div.xsl" />
+  </transformation>
+  <transformation xml:id="back"></transformation>
+  <transformation xml:id="joining">
+    <step file="EM-Combine-body-with-header-and-front.xsl" />
+  </transformation>
+  <transformation xml:id="afterJoining">
+    <step file="EM-Move-editorial.xsl" />
+    <step file="EM-Create-projectDesc.xsl" />
+    <step file="EM-Move-docImprint.xsl" />
+    <step file="EM-Move-biblical-passage-within-note.xsl" />
+    <step file="Modify-special-characters.xsl" />
+    <step file="EM-TEI-Convert-secondary-pagination-to-note.xsl" />
+    <step file="EM-TEI-Convert-del-to-note.xsl" />
+    <step file="EM-TEI-Move-note-within-note.xsl" />
+    <step file="EM-TEI-Assing-note-numbers.xsl" />
+    <step file="EM-TEI-Assign-fw-numbers.xsl" />
+    <step file="TEI-Assign-hierarchical-id.xsl" />
+    <step file="TEI-Remove-xml-space-preserve.xsl" repeat="2" />
+    <step file="TEI-Remove-empty-elements.xsl" />
+    <step file="TEI-Remove-space-before-note.xsl" />
+  </transformation>
+	<transformation xml:id="final">
+		  		<step file="Clean-for-GitHub.xsl"/>
+	</transformation>
+  <transformation xml:id="extract-input-text" description="Extrakce textu po exportu do DOCX. Slouží k porovnání s výstupním textem.">
+    <step file="EM-Extract-input-text-remove-internal-notes.xsl" />
+    <step file="EM-Extract-input-text-transliteration.xsl" />
+    <step file="EM-Extract-input-text-merge-notes.xsl" disabled="true" />
+    <step file="EM-Extract-input-text.xsl" />
+    <step file="EM-Extract-text-sort-notes.xsl" />
+    <step file="EM+TB-Normalize-spaces.xsl" />
+  </transformation>
+  <transformation xml:id="extract-text-from-subsequent-transformations" description="Extrakce textu po jedné transformaci XSLT. Slouží k porovnání původního textu s výstupním.">
+    <step file="EM-Extract-input-text-without-transposition.xsl" />
+  </transformation>
+  <transformation xml:id="extract-final-text" description="Extrakce textu po celkové transformaci. Slouží k porovnání se vstupním textem.">
+    <step file="EM-Extract-final-text.xsl" />
+    <step file="EM-Extract-text-sort-notes.xsl" />
+  </transformation>
+</transformations>

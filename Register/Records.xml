@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prepisy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.daliboris.cz/schemata/prepisy.xsd">
+ <Prepis>
+  <Hlava>
+   <Pamatka>
+    <Titul>[Život Adama a Evy]</Titul>
+    <Zkratka>Adam</Zkratka>
+    <LiterarniDruh>próza</LiterarniDruh>
+    <Datace>
+     <Stoleti>0</Stoleti>
+     <PolovinaStoleti>0</PolovinaStoleti>
+     <Desetileti>0</Desetileti>
+     <Rok>0</Rok>
+     <RelativniChronologie>0</RelativniChronologie>
+     <NePredRokem>0</NePredRokem>
+     <NePoRoce>0</NePoRoce>
+    </Datace>
+    <Pramen>
+     <Zkratka>AdamM</Zkratka>
+     <Ulozeni>
+      <Zeme>Česko</Zeme>
+      <Mesto>Praha</Mesto>
+      <Instituce>Knihovna Národního muzea</Instituce>
+      <Signatura>IV E 29</Signatura>
+      <FoliacePaginace>198r–206v</FoliacePaginace>
+     </Ulozeni>
+     <Datace>
+      <SlovniPopis>1. polovina 15. století</SlovniPopis>
+      <Stoleti>1400</Stoleti>
+      <PolovinaStoleti>1</PolovinaStoleti>
+      <Desetileti>5</Desetileti>
+      <Rok>0</Rok>
+      <RelativniChronologie>0</RelativniChronologie>
+      <NePredRokem>1401</NePredRokem>
+      <NePoRoce>1450</NePoRoce>
+     </Datace>
+     <Typ>Rukopis</Typ>
+    </Pramen>
+    <Edice>
+     <Editori />
+     <Typ>Edice</Typ>
+    </Edice>
+   </Pamatka>
+   <Predloha typ="Neznamy" />
+   <Editori />
+  </Hlava>
+  <Hlavicka>
+   <Titul>[Život Adama a Evy]</Titul>
+   <DataceText>1. polovina 15. století</DataceText>
+   <TypPredlohy>Edice</TypPredlohy>
+   <TypPredlohyText>edice</TypPredlohyText>
+   <ZemeUlozeni>Česko</ZemeUlozeni>
+   <MestoUlozeni>Praha</MestoUlozeni>
+   <InstituceUlozeni>Knihovna Národního muzea</InstituceUlozeni>
+   <Signatura>IV E 29</Signatura>
+   <FoliacePaginace>198r–206v</FoliacePaginace>
+   <EditoriPrepisuText>Hanzová, Barbora</EditoriPrepisuText>
+   <EditoriPrepisu>
+    <string>Hanzová, Barbora</string>
+   </EditoriPrepisu>
+  </Hlavicka>
+  <Soubor>
+   <Nazev>AdamM.docx</Nazev>
+   <Adresar>D:\!UJC\OVJ\Texty\CVS</Adresar>
+   <FormatWordu>Docx</FormatWordu>
+   <Zmeneno>2018-03-23T14:59:07.0849458+01:00</Zmeneno>
+   <Velikost>33833</Velikost>
+   <CisloRevize>0</CisloRevize>
+   <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+  </Soubor>
+  <Zpracovani>
+   <GUID>{A16D691F-CEEA-43E4-994C-B3E4BEA483F7}</GUID>
+   <FazeZpracovani>Exportovano</FazeZpracovani>
+   <CasoveZarazeni>DoRoku1500</CasoveZarazeni>
+   <Neexportovat>false</Neexportovat>
+   <Exporty>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+   </Exporty>
+   <ZpusobVyuziti>StaroceskyKorpus EdicniModul InterniKorpus</ZpusobVyuziti>
+   <PrvniExporty>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>D9AC610B6CCD79F469576B2ED7F975AF</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+   </PrvniExporty>
+   <ObjemDat>0</ObjemDat>
+   <ZkratkaPamatky>Adam</ZkratkaPamatky>
+   <ZkratkaPramene>AdamM</ZkratkaPramene>
+   <LiterarniDruh>próza</LiterarniDruh>
+   <Transliterovane>true</Transliterovane>
+   <MaEdicniPoznamku>false</MaEdicniPoznamku>
+   <Zabezpeceni>Verejne Spolupracovnici Interni</Zabezpeceni>
+   <PocetTokenu>5703</PocetTokenu>
+   <PocetJedinecnychTokenu>1606</PocetJedinecnychTokenu>
+   <Licence>CC-BY-SA-4.0</Licence>
+   <Publikace />
+  </Zpracovani>
+  <BibliografickyZaznam>[Život Adama a Evy]; sign.: IV E 29; 1. polovina 15. století. Ed.: Hanzová, Barbora.</BibliografickyZaznam>
+  <ObdobiVzniku>1401–1450</ObdobiVzniku>
+  <Identifikator>1</Identifikator>
+  <TypPrepisu>edice</TypPrepisu>
+ </Prepis>
+ <Prepis>
+  <Hlava>
+   <Pamatka>
+    <Titul>[Knihy lékařské]</Titul>
+    <Zkratka>LékJádro</Zkratka>
+    <LiterarniDruh>próza</LiterarniDruh>
+    <LiterarniZanr>lékařství</LiterarniZanr>
+    <Datace>
+     <Stoleti>0</Stoleti>
+     <PolovinaStoleti>0</PolovinaStoleti>
+     <Desetileti>0</Desetileti>
+     <Rok>0</Rok>
+     <RelativniChronologie>0</RelativniChronologie>
+     <NePredRokem>0</NePredRokem>
+     <NePoRoce>0</NePoRoce>
+    </Datace>
+    <Pramen>
+     <Zkratka>LékJádroBrn</Zkratka>
+     <Ulozeni>
+      <Zeme>Česko</Zeme>
+      <Mesto>Brno</Mesto>
+      <Instituce>Moravská zemská knihovna</Instituce>
+      <Signatura>Rkp 156</Signatura>
+      <FoliacePaginace>168 f.</FoliacePaginace>
+     </Ulozeni>
+     <Datace>
+      <SlovniPopis>1502–1503</SlovniPopis>
+      <Stoleti>1500</Stoleti>
+      <PolovinaStoleti>1</PolovinaStoleti>
+      <Desetileti>1</Desetileti>
+      <Rok>0</Rok>
+      <RelativniChronologie>1</RelativniChronologie>
+      <NePredRokem>1502</NePredRokem>
+      <NePoRoce>1503</NePoRoce>
+     </Datace>
+     <Typ>Rukopis</Typ>
+    </Pramen>
+    <Edice>
+     <Editori />
+     <Typ>Edice</Typ>
+    </Edice>
+   </Pamatka>
+   <Predloha typ="Neznamy" />
+   <Editori />
+  </Hlava>
+  <Hlavicka>
+   <Titul>[Knihy lékařské]</Titul>
+   <DataceText>1502–1503</DataceText>
+   <TypPredlohy>Rukopis</TypPredlohy>
+   <TypPredlohyText>rukopis</TypPredlohyText>
+   <ZemeUlozeni>Česko</ZemeUlozeni>
+   <MestoUlozeni>Brno</MestoUlozeni>
+   <InstituceUlozeni>Moravská zemská knihovna</InstituceUlozeni>
+   <Signatura>Rkp 156</Signatura>
+   <FoliacePaginace>168 f.</FoliacePaginace>
+   <EditoriPrepisuText>Černá, Alena M.</EditoriPrepisuText>
+   <EditoriPrepisu>
+    <string>Černá, Alena M.</string>
+   </EditoriPrepisu>
+  </Hlavicka>
+  <Soubor>
+   <Nazev>LekJadroBrn.docx</Nazev>
+   <Adresar>D:\!UJC\OVJ\Texty\CVS</Adresar>
+   <FormatWordu>Docx</FormatWordu>
+   <Zmeneno>2018-02-26T19:53:03.0246954+01:00</Zmeneno>
+   <Velikost>278710</Velikost>
+   <CisloRevize>0</CisloRevize>
+   <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+  </Soubor>
+  <Zpracovani>
+   <GUID>{DB31F937-74B1-45A9-B976-8672FA1DC8C7}</GUID>
+   <FazeZpracovani>Exportovano</FazeZpracovani>
+   <CasoveZarazeni>DoRoku1500</CasoveZarazeni>
+   <Neexportovat>false</Neexportovat>
+   <Exporty>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+   </Exporty>
+   <ZpusobVyuziti>Manuscriptorium StaroceskyKorpus EdicniModul ElektronickaKniha Teitok InterniKorpus</ZpusobVyuziti>
+   <PrvniExporty>
+    <Export>
+     <ZpusobVyuziti>EdicniModul</ZpusobVyuziti>
+     <CasExportu>2019-09-14T00:00:00</CasExportu>
+     <KontrolniSoucet>E15C71C426AC1907EBB1D2BAAB945BC9</KontrolniSoucet>
+     <PocetTokenu>0</PocetTokenu>
+     <PocetJedinecnychTokenu>0</PocetJedinecnychTokenu>
+    </Export>
+   </PrvniExporty>
+   <ObjemDat>0</ObjemDat>
+   <ZkratkaPamatky>LékJádro</ZkratkaPamatky>
+   <ZkratkaPramene>LékJádroBrn</ZkratkaPramene>
+   <LiterarniDruh>próza</LiterarniDruh>
+   <LiterarniZanr>lékařství</LiterarniZanr>
+   <Transliterovane>false</Transliterovane>
+   <MaEdicniPoznamku>false</MaEdicniPoznamku>
+   <Zabezpeceni>Verejne</Zabezpeceni>
+   <PocetTokenu>81622</PocetTokenu>
+   <PocetJedinecnychTokenu>9448</PocetJedinecnychTokenu>
+   <Licence>CC-BY-NC-SA-4.0</Licence>
+   <Publikace />
+  </Zpracovani>
+  <BibliografickyZaznam>[Knihy lékařské]; sign.: Rkp 156; 1502–1503. Ed.: Černá, Alena M.</BibliografickyZaznam>
+  <ObdobiVzniku>1501–1550</ObdobiVzniku>
+  <Identifikator>2</Identifikator>
+  <TypPrepisu>edice</TypPrepisu>
+ </Prepis>
+</Prepisy>
